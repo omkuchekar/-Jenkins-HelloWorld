@@ -1,5 +1,8 @@
 This is test for Java project to test.
 Java test project created at local which we build using build trigger using windows batch command.
+Checking with Jenkins job so that once commit happens it will trigger jenkins job
+http://localhost:8080/job/GithubTriggerJob/
+https://6919-83-99-255-160.eu.ngrok.io/github-webhook
 ************************************************
 cd F:\Devops\Jenkins\Git Repo\Jenkins-Demo
 
